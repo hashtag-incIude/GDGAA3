@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GDGAA3</string>
+    <string-array name="branch">
+        <item>COMPUTER SCIENCE ENGINEERING</item>
+        <item>CIVIL ENGINEERING</item>
+        <item>INFORMATION TECHNOLOGY</item>
+        <item>MECHANICAL ENGINEERING</item>
+        <item>ELECTRICAL ENGINEERING</item>
+        </string-array>
+</resources>
